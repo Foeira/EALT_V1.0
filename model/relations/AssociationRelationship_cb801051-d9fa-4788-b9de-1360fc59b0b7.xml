@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cb801051-d9fa-4788-b9de-1360fc59b0b7">
+    id="cb801051-d9fa-4788-b9de-1360fc59b0b7"
+    directed="true">
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_b9bb27b9-46a1-4e1b-942b-d46af5cd6a1b.xml#b9bb27b9-46a1-4e1b-942b-d46af5cd6a1b"/>
