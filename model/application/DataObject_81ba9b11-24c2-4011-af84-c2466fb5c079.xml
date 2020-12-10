@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tercero"
+    id="81ba9b11-24c2-4011-af84-c2466fb5c079"
+    documentation="UN TERCERO PUEDE SER :&#xD;&#xA;&#xD;&#xA;PROSPECTO A CLIENTE&#xD;&#xA;CLIENTE&#xD;&#xA;PROVEEDOR&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;NOMBRE DEL TERCERO:&#xD;&#xA;NOMBRE SIMPLE:&#xD;&#xA;CODIGO DE CLIENTE | CODIGO DE PROVEEDOR     [PROBAR QUE REF DE CLIENTE NO EXISTA] VALOR DUPLICADO EN UN CAMPO UNICO&#xD;&#xA;DIRECCIÓN:&#xD;&#xA;CP:&#xD;&#xA;CD:&#xD;&#xA;EMAIL:&#xD;&#xA;RFC:&#xD;&#xA;&#xD;&#xA;ID DE IVA:&#xD;&#xA;FRECUENCIA DE FACTURACION:&#xD;&#xA;&#xD;&#xA;"/>

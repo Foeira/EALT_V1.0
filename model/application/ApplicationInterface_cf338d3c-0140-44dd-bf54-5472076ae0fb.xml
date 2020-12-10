@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TERCEROS>NUEVO TERCERO"
-    id="cf338d3c-0140-44dd-bf54-5472076ae0fb"/>
+    id="cf338d3c-0140-44dd-bf54-5472076ae0fb"
+    documentation="&#xD;&#xA;LLENAR FORUMARIO DATA OBJECT TERCERO&#xD;&#xA;&#xD;&#xA;OBJ: OBTENER EMPRESA, RAZON SOCIAL, EMAIL, TELEFONO, DIRECCION, TIPO DE IVA "/>
